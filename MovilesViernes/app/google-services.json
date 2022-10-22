@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65215758069",
+    "project_id": "movilesviernes",
+    "storage_bucket": "movilesviernes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65215758069:android:c3a8b78002f9560ce18fbc",
+        "android_client_info": {
+          "package_name": "com.example.movilesviernes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65215758069-vbqpkf9pr9io20jl0t3bggl08isoqt5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7nGpFN4i9vx0KCst3VxTgw1zIoJMq-24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65215758069-vbqpkf9pr9io20jl0t3bggl08isoqt5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
